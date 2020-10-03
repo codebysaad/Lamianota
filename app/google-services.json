@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "452639389298",
+    "firebase_url": "https://silver-spark-169721.firebaseio.com",
+    "project_id": "silver-spark-169721",
+    "storage_bucket": "silver-spark-169721.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:452639389298:android:e5831691d3bb0c7a71b4eb",
+        "android_client_info": {
+          "package_name": "com.androidkudus.lamianota"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "452639389298-a4vk8sn2tdstr2ffgrneboaack65q0ug.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJiuRFk0_pqdXjUT31maeNm03YGi2SZb0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "452639389298-a4vk8sn2tdstr2ffgrneboaack65q0ug.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
